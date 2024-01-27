@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Spider()
+comment1.params=
+comment1.target=int\ getSpeed()
+comment1.text=\r\n\ Determines\ how\ fast\ a\ Spider\ can\ move.\ \r\n\ It\ is\ set\ to\ the\ Ant's\ walking\ speed.\r\n\ @param\ none\r\n\ @return\ The\ speed\ of\ this\ Spider\r\n
+comment2.params=
+comment2.target=int\ getVenomStrength()
+comment2.text=\r\n\ Determines\ the\ amount\ of\ damage\ a\ Spider\ can\ do\ to\ an\ Ant.\ \r\n\ It\ is\ set\ in\ the\ constructor\ as\ a\ random\ value\ between\ 1\ and\ 3.\r\n\ Some\ Spiders\ are\ more\ dangerous\ than\ others.\r\n\ @param\ none\r\n\ @return\ The\ venomStrength\ of\ this\ Spider\ (damage\ it\ will\ do\ when\ it\ bites\ an\ Ant)\r\n
+comment3.params=
+comment3.target=int\ timeToStrike()
+comment3.text=\r\n\ Determines\ how\ long\ before\ a\ Spider\ can\ bite\ an\ Ant.\ \r\n\ After\ biting\ an\ Ant\ the\ Spider\ must\ recover.\ \r\n\ It\ cannot\ bite\ the\ Ant\ again\ the\ timeToStrike()\ is\ <\=\ 0.\r\n\ @param\ none\r\n\ @return\ number\ of\ turns\ this\ Spider\ must\ wait\ before\ it\ can\ bite\ an\ Ant\r\n
+comment4.params=
+comment4.target=boolean\ acting()
+comment4.text=\r\n\ Not\ for\ use,\ helper\ method\ to\ enfore\ rules\ of\ game\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ The\ Spider's\ behaviour\ in\ the\ game.\r\n
+comment6.params=
+comment6.target=void\ spiderWalk()
+comment6.text=\r\n\ Spiders\ have\ a\ pre-determined\ behaviour.\r\n\ They\ can\ "see"\ Ants\ within\ a\ 100px\ radius.\ \r\n\ When\ a\ Spider\ finds\ an\ Ant\ it\ will\ chase\ the\ Ant\ in\ hopes\ of\ biting\ it.\r\n\ It\ does\ not\ attack\ any\ particular\ Ant,\ it\ picks\ a\ random\ one\ on\ each\ turn\ if\ its\ within\ the\ 100px.\r\n\ If\ it\ is\ successful\ in\ biting\ the\ Ant,\ the\ Ant\ will\ lose\ points\ equal\ to\ venomStrength\ and\ be\ forced\ to\ drop\ its\ food\ (if\ holding\ a\ crumb).\r\n\ When\ the\ Spider\ does\ not\ see\ an\ Ant\ or\ it\ cannot\ bite\ an\ Ant\ (BITE_DELAY\ has\ not\ expired)\ it\ wanders\ around\ randomly.\r\n
+numComments=7

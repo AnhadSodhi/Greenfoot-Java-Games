@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=name\ points
+comment0.target=Scores(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getPoints()
+comment3.params=other
+comment3.target=int\ compareTo(java.lang.Object)
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getOwner()
+comment1.params=
+comment1.target=boolean\ wantsToMove()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=boolean\ wantsToPickUpFood()
+comment4.params=
+comment4.target=boolean\ wantsToBump()
+comment5.params=
+comment5.target=boolean\ wantsToDropFood()
+numComments=6

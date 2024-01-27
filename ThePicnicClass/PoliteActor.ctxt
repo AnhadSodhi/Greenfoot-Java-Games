@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PoliteActor()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ PoliteActor\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment10.params=x\ y
+comment10.target=void\ turnTowards(int,\ int)
+comment11.params=
+comment11.target=boolean\ acting()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=img
+comment3.target=void\ setImage(greenfoot.GreenfootImage)
+comment4.params=path
+comment4.target=void\ setImage(java.lang.String)
+comment5.params=x\ y
+comment5.target=void\ setLocation(int,\ int)
+comment6.params=distance
+comment6.target=void\ move(int)
+comment7.params=c
+comment7.target=void\ removeTouching(java.lang.Class)
+comment8.params=rotation
+comment8.target=void\ setRotation(int)
+comment9.params=amount
+comment9.target=void\ turn(int)
+numComments=12

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getOwner()
+comment1.params=
+comment1.target=boolean\ wantsToMove()
+comment10.params=
+comment10.target=boolean\ wantsToDropFood()
+comment2.params=myX\ myY\ otherX\ otherY
+comment2.target=int\ findDistance(int,\ int,\ int,\ int)
+comment2.text=\r\n\ Finds\ the\ distance\ of\ walking\ in\ a\ straight\ line\ to\ the\ destination\r\n
+comment3.params=range\ a\ c
+comment3.target=greenfoot.Actor\ getClosestActorInRange(int,\ greenfoot.Actor,\ java.lang.Class)
+comment4.params=startX\ startY\ endX\ endY
+comment4.target=int\ getObstaclesInPath(int,\ int,\ int,\ int)
+comment5.params=crumbs
+comment5.target=Crumb\ getBestCrumb(java.util.ArrayList)
+comment6.params=closestSpider
+comment6.target=void\ runFromSpider(Spider)
+comment7.params=
+comment7.target=void\ move()
+comment8.params=
+comment8.target=boolean\ wantsToPickUpFood()
+comment9.params=
+comment9.target=boolean\ wantsToBump()
+numComments=11
