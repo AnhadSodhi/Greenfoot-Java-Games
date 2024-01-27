@@ -1,0 +1,4 @@
+Use the arrow keys to move the character, and the mouse to aim
+The spacebar + one of the arrow keys will make you dash in that direction (has a cooldown)
+Right click to change weapons
+Holding down X will deactivate "Goblin Mode" (stop the character and crosshairs from shaking)

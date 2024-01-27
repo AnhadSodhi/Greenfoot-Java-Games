@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=Crosshairs(Player)
+comment1.params=
+comment1.target=void\ checkForDamage()
+comment2.params=percentChance
+comment2.target=void\ checkIfFreeTrialOnLifeHasExpired(double)
+comment3.params=
+comment3.target=void\ processCrossMovement()
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ Act\ -\ do\ whatever\ the\ Crosshairs\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=7
